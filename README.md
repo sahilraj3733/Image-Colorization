@@ -14,7 +14,7 @@ This project uses a Conditional GAN (cGAN) model to automatically colorize grays
 
 - 📉 Loss at Epoch 20:
 
-     - Generator Loss: 5.81
+     - Generator Loss: 0.9
 
      - Discriminator Loss: 0.63
 
